@@ -1,0 +1,11 @@
+body {
+  background: linear-gradient(to bottom, #869d4d, #05204a);
+  margin: 0;
+  padding: 0;
+}
+
+h1, p {
+
+  text-align: center;
+  padding: 100px;
+}
